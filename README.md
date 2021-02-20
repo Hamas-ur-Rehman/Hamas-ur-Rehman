@@ -38,8 +38,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][web]
 [<img align="left" alt="Flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />][flutter]
 [<img align="left" alt="dart" width="26px" src="https://www.pngfind.com/pngs/m/144-1441576_dart-logo-png-transparent-dart-lang-png-download.png" />][dart]
-[<img align="left" alt="python" width="26px" src="https://lh3.googleusercontent.com/proxy/jL6Rozma66KKj0FpSmwb3qEdEKoN1LEhyclcgGICQATWXmtR1ZjIkJxAYg4Ou0TJDrDgsfb9KUPBvCA3QBAP9zRRFyOwJOwRmB-5OHNrYuzqeVtYLAT4hWkO3S7_9oQmiFes9L8IA6mYBQ" />][py]
-
 
 
 <br />
@@ -83,5 +81,4 @@
 [web]: https://github.com/explore
 [flutter]: https://flutter.dev/?gclid=Cj0KCQiA5bz-BRD-ARIsABjT4ni5nQUgIN-5H5-85bzu6oBSzMz1Qdq7nWj64ujZs9uAKr-vx5XWa7YaAhqhEALw_wcB&gclsrc=aw.ds
 [dart]: https://dart.dev/
-[py]: https://www.python.org/
 
