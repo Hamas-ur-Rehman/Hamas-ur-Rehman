@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-![4pn783](https://user-images.githubusercontent.com/47780362/101602507-0f00b080-3a20-11eb-9168-fece3f36d2c2.gif)
+![4pn783](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <br>
 
 
@@ -56,6 +56,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Muhaffiz App Demo Made Using Flutter #hackfair #flutter](https://youtu.be/IErm4DZQ_nE)
+- [The quick and easy way to fetch an api in Flutter](https://youtu.be/3tFqAKpJuZk)
 - [HOW TO RECORD TEMPERATURE DATA FROM ARDUINO AND SEND IT TO WHATSAPP USING PYTHON](https://www.youtube.com/watch?v=wuUwYeYMTws)
 - [HOW TO PLAY ANY GAME WITH VOICE COMMANDS USING PYTHON](https://www.youtube.com/watch?v=4LA6AjW17lk)
 - [python script for Youtube views](https://www.youtube.com/watch?v=M75P3XE8KDk)
