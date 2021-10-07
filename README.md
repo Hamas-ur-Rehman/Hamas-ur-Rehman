@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on a Flutter Project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play squash
 
 ### Connect with me:
 ![4pn783](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
