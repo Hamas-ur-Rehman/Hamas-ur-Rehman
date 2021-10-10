@@ -1,4 +1,5 @@
 ### Hi there, I'm Hamas - aka HamasTech 👋
+![giphy (2)](https://user-images.githubusercontent.com/47780362/136697875-61b80f5e-87af-4692-854e-f10f6593ed84.gif)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hamas_ur_Rehman?label=Follow%20%20Hamas_ur_Rehman&logoColor=blue&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHamas_ur_Rehman&screen_name=Hamas_ur_Rehman)
