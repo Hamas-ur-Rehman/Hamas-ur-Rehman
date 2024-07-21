@@ -61,5 +61,10 @@ Databases:
   </p>
 </div>
 
+### _Currently Doing What 🙄_
+I am trying to learn to fly Su-33 in DCS ✈
+
+![Sukhoj_Su-27_draw_prev_ui](https://github.com/user-attachments/assets/a4f17ceb-3fad-41a1-8687-7bd5df1a3380)
+
 ### _Support ☕_
 <p><a href="https://www.buymeacoffee.com/hamasurrehman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamasurrehman" /></a></p><br><br>
