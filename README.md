@@ -62,7 +62,7 @@ Databases:
 </div>
 
 ### _Currently Doing What 🙄_
-I am trying to learn to fly Su-33 in DCS ✈
+<a href="https://steamcommunity.com/id/hamasurrehman/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="hamastech" height="30" width="40" /></a>I am trying to learn to fly Su-33 in DCS ✈ 
 
 ![Sukhoj_Su-27_draw_prev_ui](https://github.com/user-attachments/assets/a4f17ceb-3fad-41a1-8687-7bd5df1a3380)
 
