@@ -1,4 +1,4 @@
-### _Hello_ 👋
+### _Hello_ 👋 
 I'm Hamas Ur Rehman! 🌟 Greetings from Peshawar, Pakistan! 🇵🇰 I'm an enthusiastic tech enthusiast who loves to tinker with the latest innovations in the tech world. I primarily work with **Language Models** and enjoy exploring cutting-edge technologies. My current focus is on some **super exciting side projects** (they're a bit secretive for now 😉, but I promise they're worth the wait!). I'd love to chat and collaborate with fellow enthusiasts and experts! 🤝 If you're passionate about tech and want to join me in these ventures, let's connect! 💡
 
 Feel free to reach out at _**hamasurrehman@gmail.com**_
