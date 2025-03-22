@@ -33,11 +33,14 @@ tools:
   - GitHub
   - Docker
   - Postman
+  - V0
 ```
 ```YAML
 cloud:
   - Azure
   - AWS
+  - G-Cloud
+  - Railway
 ```
 ```YAML
 OS:
